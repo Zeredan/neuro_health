@@ -1,0 +1,11 @@
+{
+  "epoch": 10,
+  "best_val_loss": 0.35,
+  "model_class": "SimpleModel",
+  "history_lengths": {
+    "train_loss": 3,
+    "val_loss": 3,
+    "train_acc": 3,
+    "val_acc": 3
+  }
+}
